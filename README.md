@@ -4,24 +4,21 @@ Welcome to my portfolio website!
 
 ## Projects
 
-### Project 1: Automation testing tool with AI/ML
+### Project 1: Automation Testing Tool with AI/ML
 
-- **Description**: Natural Language Processing tasks within projects, such as multiclass classification, and creating chatbots to help new users.
+- **Description**: This project involves Natural Language Processing (NLP) tasks within projects, such as multiclass classification, and creating chatbots to assist new users.
 
+### Project 2: Test Case Creation and Data Management Tool
 
-### Project 2: Test case creation and data management tool 
+- **Description**: This platform manages test cases, test data, and ML models using Vertex AI. It includes model training and deployments.
 
-- **Description**: Platform for managing test cases, test data, and ML models using Vertex AI, including model training and deployments.
+### Project 3: Xpedite API Test Farm, REST Automation
 
+- **Description**: This platform facilitates the creation of multiple requests with LLM models and ML model creation for backend performance testing.
 
-### Project 3: Xpedite API Test Farm, REST automation 
+### Project 4: Theta 1, Converting Selenium and Manual Test Cases into Tool
 
-- **Description**: Platform for creating multiple requests with LLM models and ML model creation for backend performance testing.
-
-### Project 4: Theta 1, Converting Selenium and manual test cases into tool
-
-- **Description**: Platform for creating multiple data with LLM models and ML model creation for backend performance testing.
-
+- **Description**: This platform involves creating multiple data with LLM models and ML model creation for backend performance testing.
 
 ## Skills
 
@@ -29,16 +26,15 @@ Welcome to my portfolio website!
 - Natural Language Processing (NLP), BERT, Text Classification
 - Research Skills
 - LangChain, LLamaSharp
-- Frameworks and libraries (TensorFlow, scikit-learn) 
-- Generative AI (Chat-GPT4, GPT- 3.5), Meta Llama 2
-- AI/ML (Jupyter-Notebook)
+- Frameworks and Libraries (TensorFlow, scikit-learn)
+- Generative AI (Chat-GPT4, GPT-3.5), Meta Llama 2
+- AI/ML (Jupyter Notebook)
 - Kubeflow (MLOps), Azure Databricks
-- ML pipelines using Vertex AI (Google Cloud)
-- Application development using C# and Visual Studio
-
+- ML Pipelines using Vertex AI (Google Cloud)
+- Application Development using C# and Visual Studio
 
 ## Contact Me
 
 - Email: satishc81@gmail.com
-- LinkedIn: www.linkedin.com/in/satish-chougule-ml
-- GitHub: https://github.com/Satishc81-AI
+- LinkedIn: [Satish Chougule LinkedIn](https://www.linkedin.com/in/satish-chougule-ml)
+- GitHub: [Satishc81-AI GitHub](https://github.com/Satishc81-AI)
